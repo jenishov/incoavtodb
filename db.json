@@ -31,7 +31,7 @@
       "price": 16800
     },
     {
-      "id": 6,
+      "id": 5,
       "image": "./crs/imgjes/catalog/2013 Tesla Model S60.png",
       "title": "2013 Tesla Model S60",
       "privod": "rwd",
@@ -41,14 +41,84 @@
       "price": 25500
     },
     {
-      "image": "https://i.pinimg.com/736x/db/67/8c/db678cef970a898c6e5895c85adfcc77--mercedes-benz-w-dreamland.jpg",
-      "title": "mers",
-      "privod": "задний привод",
-      "zapas": "200",
-      "probeg": "100000",
-      "year": "2001",
-      "price": "15000",
-      "id": 7
+      "id": 6,
+      "image": "./crs/imgjes/car/2018 Tesla.png",
+      "title": "2018 Tesla Model 3 Mid",
+      "privod": "rwd",
+      "zapas": "420 км",
+      "probeg": 15534,
+      "year": 2018,
+      "price": 16800
+    },
+    {
+      "id": 7,
+      "image": "./crs/imgjes/car/2016 Chevrolet.png",
+      "title": "2016 Chevrolet Volt II",
+      "privod": "rwd",
+      "zapas": "85 км + ДВС",
+      "probeg": 26097,
+      "year": 2016,
+      "price": 16800
+    },
+    {
+      "id": 8,
+      "image": "./crs/imgjes/catalog/2014 Tesla Model S60.png",
+      "title": "2014 Tesla Model S60",
+      "privod": "rwd",
+      "zapas": "320 км",
+      "probeg": 51822,
+      "year": 2014,
+      "price": 16800
+    },
+    {
+      "id": 9,
+      "image": "./crs/imgjes/catalog/2013 Tesla Model S60.png",
+      "title": "2013 Tesla Model S60",
+      "privod": "rwd",
+      "zapas": "320 км",
+      "probeg": 146022,
+      "year": 2013,
+      "price": 25500
+    },
+    {
+      "id": 10,
+      "image": "./crs/imgjes/car/2018 Tesla.png",
+      "title": "2018 Tesla Model 3 Mid",
+      "privod": "rwd",
+      "zapas": "420 км",
+      "probeg": 15534,
+      "year": 2018,
+      "price": 16800
+    },
+    {
+      "id": 11,
+      "image": "./crs/imgjes/car/2016 Chevrolet.png",
+      "title": "2016 Chevrolet Volt II",
+      "privod": "rwd",
+      "zapas": "85 км + ДВС",
+      "probeg": 26097,
+      "year": 2016,
+      "price": 16800
+    },
+    {
+      "id": 12,
+      "image": "./crs/imgjes/catalog/2014 Tesla Model S60.png",
+      "title": "2014 Tesla Model S60",
+      "privod": "rwd",
+      "zapas": "320 км",
+      "probeg": 51822,
+      "year": 2014,
+      "price": 16800
+    },
+    {
+      "id": 13,
+      "image": "./crs/imgjes/catalog/2013 Tesla Model S60.png",
+      "title": "2013 Tesla Model S60",
+      "privod": "rwd",
+      "zapas": "320 км",
+      "probeg": 146022,
+      "year": 2013,
+      "price": 25500
     }
   ],
   "info": [
